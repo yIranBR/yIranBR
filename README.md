@@ -5,7 +5,7 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yIranBR&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-** <div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
   <h2>Aprendendo<img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></h2>
 </div> 
 
