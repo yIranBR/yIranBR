@@ -6,7 +6,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h1>Aprendendo<img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></h1>
+  <h2>Aprendendo<img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></h2>
 </div>
 
 <div> 
