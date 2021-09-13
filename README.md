@@ -10,7 +10,7 @@
 </div> 
 
 <div> 
-  <h3>Minhas redes sociais</h3>
+  <h3>Não seja curioso</h3>
  <a href="https://www.youtube.com/c/Iranzin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://steamcommunity.com/id/yIranBR" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
