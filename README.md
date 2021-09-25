@@ -6,7 +6,9 @@
 </div>
 
  <div style="display: inline_block"><br>
-  <h2>Aprendendo<img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></h2>
+  <h2>Estudando <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></h2>
 </div> 
 
 <div> 
