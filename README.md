@@ -1,5 +1,5 @@
-<h1>Olá meu nome é Iran, seja bem vindo(a) ao meu perfil</h1>
-<h2>- Desenvolvedor Frontend e UX/UI</h2>
+<h1>Hi, welcome to my profile</h1>
+<h2>- Frontend developer and UX/UI</h2>
 <br>
 <div>
   <a href="https://github.com/yIranBR">
