@@ -8,7 +8,7 @@
 </div>
 <br>
 <div>
-  <p>Trabalho com as seguintes ferramentas:</p>
+  <h3>Trabalho com as seguintes ferramentas:</h3>
    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img align="center" src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white">
    <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
